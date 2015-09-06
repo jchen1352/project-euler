@@ -1,3 +1,5 @@
+#this program doesn't work (too slow)
+
 def sqsum(number):
     if number == 0:
         return 0
